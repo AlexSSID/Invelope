@@ -2,7 +2,8 @@
   "users":[
     {
       "user": "practic",
-      "password": "chlen_klal"
+      "password": "chlen_klal",
+      "local_name":"prost"
     }
     
   ]
