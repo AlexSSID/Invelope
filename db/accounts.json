@@ -1,14 +1,9 @@
 {
   "users": [
     {
-      "user": "practic",
-      "password": "chlen_klal",
+      "user": "alex",
+      "password": "wrong",
       "local_name": "prost"
     },
-    {
-      "user": "practic2",
-      "password": "chlen_klal",
-      "local_name": "prost"
-    }
   ]
 }
